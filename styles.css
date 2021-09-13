@@ -1,0 +1,77 @@
+style>
+.Topic-1{
+    padding: 50px;
+    background-color: black;
+    background-image: url(images/delani.jpeg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+ .numbe1{
+     text-align: center;
+     color: black;
+
+ }
+ .numbe2{
+     text-align: center;
+     color: black;
+ }
+ .pic{
+ padding-bottom: 10px;
+    padding-top: 10px;
+ }
+.mouse{
+    padding-top: 8%;
+}
+.body1{
+    text-align: center;
+}
+.Topic-3{
+    color: white;
+}
+.numbe4{
+    padding: 50px;
+}
+.prime1{
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.Topic-4{
+    padding: 10px;
+}
+.pendo1{
+   float: left;
+    width: 31%;
+    padding: 10px;
+    height: 300px;
+}
+.pendo2{
+    float: left;
+    width: 31%;
+    padding: 10px;
+    height: 300px;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-evenly;
+    
+}
+.Topic-6{
+    background-image: url(images/traffic.jpg);
+    padding-top: 35px;
+    padding-bottom: 40px;
+    background-repeat: no-repeat;
+}
+.contuct-us {
+    font-size: 12px;
+    padding: 5px 10px 10px 5px;
+    display: block;
+    width: 100%;
+    background: transparent;
+    color: white;
+}
+
