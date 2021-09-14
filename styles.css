@@ -74,7 +74,7 @@ style>
     padding-bottom: 40px;
     background-repeat: no-repeat;
 }
-.col-3{
+.col-3-md {
     float: left;
   width: 20.33%;
   padding: 5px;
@@ -82,4 +82,11 @@ style>
 .mum {
     background-color: transparent;
 }
+#portfolio{
+    width: 100%;
+}
+#whatwedo{
+    overflow: hidden;
+}
+
 
