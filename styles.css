@@ -34,13 +34,7 @@ style>
     margin-left: 20px;
     margin-right: 20px;
 }
-.prime1{
-    padding: 20px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-}
+
 .Topic-4{
     padding: 10px;
 }
@@ -56,6 +50,12 @@ style>
     padding: 10px;
     height: 300px;
 }
+.pendo1{
+    float: left;
+     width: 31%;
+     padding: 10px;
+     height: 300px;
+ }
 .row{
     display: flex;
     flex-wrap: wrap;

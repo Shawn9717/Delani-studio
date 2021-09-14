@@ -1,18 +1,20 @@
 //For toggling on WHAT WE DO
 $(document).ready(function() {
     $(".pendo1").click(function() {
-        $("#njoga1").toggle();
-        $("#click1").toggle();
+        $("#njoga1").slideToggle();
+        $("#click").slideToggle(slow);
     });
     $(".pendo2").click(function() {
-        $("#njoga2").toggle();
-        $("#click2").toggle();
+        $("#njoga2").slideToggle();
+        $("#click2").slideToggle(slow);
     });
     $(".pendo3").click(function() {
-        $("#njoga3").toggle();
-        $("#click3").toggle();
+        $("#njoga3").slideToggle();
+        $("#click3").slideToggle(slow);
     });
 });
+//Howver effect on portfolio images
+
 
 
 
