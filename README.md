@@ -1,11 +1,11 @@
 # project-3
-#### This application helps one know his/her Akan name, {2021}
+#### This application talks about Delani studio, {2021}
 #### By **Shawn Njoga and Moringa School**
 ## Description
-This applicatin is called the Akan application which enables one to know his/her Akan name depending on the day he/she was born and its easy for use. 
+This applicatin is called the Delani studio which talks about what they offer and the courses they offer and how they help people in coding lessons. 
 ## Setup/Installation Requirements
 * this is a greet application
-* I`ts free for use
+* I`ts free for accessing
 * in a simple
 * easy-to-understand
 * format
