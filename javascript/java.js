@@ -18,5 +18,15 @@ $(document).ready(function() {
         $(".pendo9").show();
     });
 });
+$("#jack").submit( function(e){
+    e.preventDefault();
+    var user=$("input#contact-name").val()
+    alert(user+" Your message has been received")
+ });
 
+
+  $("#sub").click(function() {
+  event.preventDefault();
+  });
+  $(sub)
  
