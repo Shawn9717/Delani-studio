@@ -1,5 +1,7 @@
 {
     "recommendations": [
-        "ritwickdey.liveserver"
+        "ritwickdey.liveserver",
+        "abusaidm.html-snippets",
+        "ecmel.vscode-html-css"
     ]
 }

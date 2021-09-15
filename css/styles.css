@@ -79,6 +79,10 @@ style>
   width: 20.33%;
   padding: 5px;
 }
+.figure
+.PORTFOLIO img {
+    cursor: pointer;
+}
 .mum {
     background-color: transparent;
 }
@@ -88,5 +92,22 @@ style>
 #whatwedo{
     overflow: hidden;
 }
+.pendo9{
+    transition: .5s ease;
+    opacity: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform:translate(-50%, -50%);
+    -ms-transform:translate(-50%, -50%);
+    background: rgba(0, 0, 0, 0.466);
+    border-radius: 3px;
+}
 
+.col-md-3p-4:hover .image {
+    opacity: 0.3;
+}
 
+.col-md-3p-4:hover .pendo9{
+    opacity: 1;
+}
