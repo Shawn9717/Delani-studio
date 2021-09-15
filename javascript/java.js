@@ -12,10 +12,11 @@ $(document).ready(function() {
         $("#njoga3").slideToggle();
         $("#click3").hide(fast);
     });
+    //Howver effect on portfolio images
     $(".PORTFOLIO img").hover(function() {
-        $(".col-3 p-4 img").addclass("image");
-        $(".project-name").show();
+        $(".col-3 p-4 img").addclass("picture");
+        $(".pendo9").show();
     });
 });
-//Howver effect on portfolio images
+
  
